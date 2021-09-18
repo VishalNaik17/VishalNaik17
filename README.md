@@ -11,7 +11,7 @@ In love with Tech and Pixels.
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalNaik17&langs_count=5&theme=tokyonight)]()
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aadarsh231099&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=VishalNaik17&count_private=true&theme=tokyonight&showicons=true)]()
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VishalNaik17&theme=tokyonight)]()

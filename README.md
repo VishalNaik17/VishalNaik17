@@ -1,4 +1,4 @@
-### 3rd Year B.E. student of branch Computer Science in N.M.A.M. Institute of Technology.
+### 4th Year B.E. student of branch Computer Science in N.M.A.M. Institute of Technology.
 In love with Tech and Pixels.
 
 
